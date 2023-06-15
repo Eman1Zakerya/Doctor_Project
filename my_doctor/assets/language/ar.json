@@ -1,0 +1,52 @@
+{
+  "My_Doctor": "دكتورى",
+  "Name" : "الاسم الاول",
+  "last_name" : "الاسم الاخير ",
+  "Instantly_you_can_easily_contact_with_the_doctor_and_contact_for_your_needs": "على الفور يمكنك بسهولة الاتصال بالطبيب والاتصال لاحتياجاتك ",
+  "Get_started": "ابدا",
+  "Register": "تسجيل الدخول",
+  "age": "العمر",
+  "Gender": "النوع",
+  "Marital_Status": "الحالة الاجتماعية",
+  "Mail": "البريد الالكترونى",
+  "Phone": "التليفون",
+  "Password": "كلمةالمرور",
+  "Already_have_an_account" : "لديك حساب بالفعل",
+  "Login" : "دخول",
+  "Do_not_have_an_account?": "ليس لديك حساب",
+  "Dr": "د",
+  "about": "نبذة عنه",
+  "Appointment_Date": "تاريخ الحجز",
+  "Book_Appointment" : "احجز موعد",
+  "medical_information": "معلومات طبية",
+  "home": "الرئيسية",
+  "posts": "المنشورات",
+  "notifications": "الاشعارات",
+  "my_Booking": "حجزواتى",
+  "booking_date": "تاريخ الحجز",
+  "cancel": "الغاء",
+  "surgery_major": "قسم الجراحة",
+  "like": "اعجاب",
+  "Single": "اعزب",
+  "Marred":"متزوج",
+  "devorsed": "مطلق",
+  "Widower":"ارمل",
+  "male":"ذكر",
+   "female" :"انثي",
+  "log_out": "تسجيل الدخو ",
+  "date_of_birth": "تاريخ الميلاد",
+  "date_of_bookin" : "تاريخ الحجز",
+  "time_of_booking" : "وقت الحجز",
+  "shakwa": "الشكوي",
+  "comment": "تعليق",
+  "have_a_booking_date": "احجز موعد",
+  "chose": "اختيار",
+  "No_available_dates_yet": "لا توجد مواعيد متاحة",
+  "No_available_booking_yet": "ليس لديك اي حجوزات حتى الان"
+
+  
+
+
+
+
+}
